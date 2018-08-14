@@ -2,7 +2,10 @@
   "name": "Travel-Site",
   "version": "1.0.0",
   "dependencies": {
-    "normalize.css": "^4.1.1"
+    "jquery-smooth-scroll": "^2.2.0",
+    "normalize.css": "^4.1.1",
+    "npm": "^6.3.0",
+    "waypoints": "^4.0.1"
   },
   "devDependencies": {
     "autoprefixer": "^8.6.3",
